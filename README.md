@@ -1,3 +1,4 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/457057429557870603)](https://discord.com/users/457057429557870603)
 # 💫 About Me:
 🏗️ Working on my portfolio.<br>🌱 Learning dev web at Institut G4 Lyon.<br>💻 Love frontend.<br>🚀 Here's my [portfolio](https://jules-drevon.fr) !
 
@@ -14,5 +15,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/457057429557870603)](https://discord.com/users/457057429557870603)
